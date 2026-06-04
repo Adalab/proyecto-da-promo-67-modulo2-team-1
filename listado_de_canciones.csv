@@ -426,7 +426,7 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 657797532,10803980,92094672,Don't Know What To Do,201,566925,False
 623470302,10803980,85545032,Forever Young,236,613630,False
 3866248801,10803980,926950431,Fxxxboy,187,587728,False
-1390398292,10803980,234168882,DDU-DU DDU-DU (Live),242,390327,False
+1390398292,10803980,234168882,DDU-DU DDU-DU (Live),242,416667,False
 1390398222,10803980,234168882,Don't Know What To Do (Live),198,351845,False
 1915471187,10803980,357003127,Tally,184,528684,False
 623470312,10803980,85545032,Really,197,501010,False
@@ -444,7 +444,7 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 955173302,10803980,147221692,Forever Young (Japan Version / BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-),255,401633,False
 1390398212,10803980,234168882,How You Like That (Live),179,436899,False
 1390398192,10803980,234168882,Kill This Love (Live),192,431750,False
-1390398312,10803980,234168882,As If It's Your Last (Live),224,342212,False
+1390398312,10803980,234168882,As If It's Your Last (Live),224,389554,False
 1390398302,10803980,234168882,WHISTLE (Live),214,296625,False
 739443402,10803980,108710042,DDU-DU DDU-DU (Live),210,327913,False
 1364224722,3265001,228023292,Heartbreak Anthem,183,673589,True
@@ -879,7 +879,7 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 1480689282,1672366,255501552,Ya no vales,155,243219,True
 2349477385,5620251,459457995,Oliveira Dos Cen Anos,199,332767,False
 1448535352,5620251,247879262,Yate,205,274533,False
-1656130422,5620251,295730982,La Culpa (feat. Canelita),190,312413,True
+1656130422,5620251,295730982,La Culpa (feat. Canelita),190,279626,True
 628867462,8376040,86551492,París,192,207837,True
 790202502,5620251,116736962,Yelo,189,163666,False
 408469792,5620251,48479002,Pa Que Brille,199,195081,False
@@ -891,7 +891,7 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 1109158732,5620251,179600622,Ojalá (feat. Chico Blanco),180,144086,True
 3255029241,5620251,719914881,Persiguiéndonos,174,204653,False
 1096720422,5629748,176935702,Encima Mia,214,130770,True
-1279936092,7457468,215894192,Qué Facilidad,213,249966,True
+1279936092,7457468,215894192,Qué Facilidad,213,214082,True
 408469732,5620251,48479002,Intoxicao,206,216890,False
 408469762,5620251,48479002,Caballo Ganador,181,153002,False
 4603408,259,423368,Billie Jean,293,971418,False
@@ -911,7 +911,7 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 15593563,259,1441212,Remember the Time,239,955589,False
 15593565,259,1441212,Heal the World,384,967673,False
 4603411,259,423368,Man in the Mirror (Remastered Version),319,941472,False
-15593566,259,1441212,Black or White,256,961979,False
+15593566,259,1441212,Black or White,256,928968,False
 831298,259,96126,The Girl Is Mine (with Paul McCartney),222,869912,True
 8164649,259,753320,You Are Not Alone,361,910445,False
 59509561,259,5814011,Liberian Girl (2012 Remastered Version),233,930556,False
@@ -1080,8 +1080,8 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 3788156322,485,902085852,Milk,232,450899,False
 3803564152,485,905339012,Dumb,230,267305,False
 3788156212,485,902085852,Queer,276,536300,False
-3794204232,485,903779802,Sex Is Not the Enemy (Remastered 2022),187,141141,False
-3794204352,485,903779802,No Horses,323,150128,False
+3794204232,485,903779802,Sex Is Not the Enemy (Remastered 2022),187,104866,False
+3794204352,485,903779802,No Horses,323,111543,False
 3788156472,485,902085892,Shut Your Mouth,205,330274,False
 3803564202,485,905339012,Sleep Together,243,288789,False
 3794045502,485,903739902,Betcha (B-Side / 2024 Remaster),280,295702,False
@@ -1093,7 +1093,7 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 3788156312,485,902085852,Fix Me Now,283,287434,False
 3803518012,485,905334002,Cities In Dust,262,273659,False
 3803564482,485,905339062,Lick The Pavement,162,159591,False
-3794204302,485,903779802,Big Bright World,215,158166,False
+3794204302,485,903779802,Big Bright World,215,117515,False
 3121608,425,301232,Heart Of Glass (Single Version / Remastered),251,779434,False
 3104486,425,300209,Call Me,212,854839,False
 3104498,425,300209,One Way Or Another,211,783045,False
@@ -1123,7 +1123,7 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 3100624,425,299944,Once I Had A Love (AKA The Disco Song) (1975 Version / Remastered 2001),238,334512,False
 4305117,425,400437,"Call Me (Theme From ""American Gigolo"")",483,115855,False
 4305106,425,400437,Sunday Girl (Remastered 2001),181,89704,False
-4305122,425,400437,Rapture (Special Disco Mix),599,45224,False
+4305122,425,400437,Rapture (Special Disco Mix),599,109882,False
 4305091,425,400437,X Offender (Remastered 2001),191,95579,False
 3100634,425,299945,Die Young Stay Pretty (Remastered),204,196255,False
 3100648,425,299946,In The Sun (Remastered 2001),160,267415,False
@@ -1143,7 +1143,7 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 3100646,425,299946,In The Flesh (Remastered 2001),146,266110,False
 418231522,425,49988752,I'm Gonna Love You Too,123,215005,False
 3104495,425,300209,Union City Blue (Single Version),198,160496,False
-3783015882,425,900563502,Long Time,275,296473,False
+3783015882,425,900563502,Long Time,275,329992,False
 661228,315929,80278,Don't Get Me Wrong,226,729015,False
 3590282,315929,339077,I'll Stand by You,238,806578,False
 661218,315929,80278,Brass in Pocket,184,661735,False
@@ -1241,7 +1241,7 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 814967122,2446,120166402,Con la Frente Marchita,299,173605,True
 3376833,2446,321135,Perdóname,208,164525,False
 3138148,2446,302305,Enamorada,219,126623,False
-3376755,2446,321117,El día de Año Nuevo,238,129223,False
+3376755,2446,321117,El día de Año Nuevo,238,96011,False
 3085372761,2446,668521151,Los Demonios del Fuego,175,152647,False
 3376756,2446,321117,El mundo al revés,278,114724,False
 3098301,1755,299784,"It Must Have Been Love (From the Film ""Pretty Woman"")",259,851456,False
@@ -1255,17 +1255,17 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 89388947,1755,9049085,Dangerous,229,538236,False
 89388977,1755,9049085,Listen to Your Heart (Swedish Single Edit),314,654490,False
 1523248472,1755,265901582,Joyride,263,550364,False
-126424007,1755,13315825,Almost Unreal,232,181959,False
+126424007,1755,13315825,Almost Unreal,232,229946,False
 89388973,1755,9049085,Joyride (Single Version),241,480819,False
 126424017,1755,13315825,I Don't Want to Get Hurt,257,374511,False
 3136441,1755,302183,Un día sin tí (Spending My Time),279,392411,False
-126423989,1755,13315825,Dressed for Success (US Single Mix),251,195578,False
-126424001,1755,13315825,The Big L.,265,163119,False
+126423989,1755,13315825,Dressed for Success (US Single Mix),251,225632,False
+126424001,1755,13315825,The Big L.,265,221525,False
 3098311,1755,299784,Anyone,271,550782,False
 89388961,1755,9049085,Fading Like A Flower (Every Time You Leave),230,375025,False
 97085036,1755,9883740,It Must Have Been Love (Christmas for the Broken Hearted),287,498450,False
 126423965,1755,13315821,The Look (Live on MTV Unplugged),313,458719,False
-3098305,1755,299784,Queen Of Rain,290,316483,False
+3098305,1755,299784,Queen Of Rain,290,353239,False
 3136447,1755,302183,Habla El Corazón (Listen to Your Heart),311,254775,False
 2140672207,1755,405123167,The Rain,289,379613,False
 1094303982,1755,176381922,Let Your Heart Dance With Me,187,246006,False
@@ -1273,15 +1273,15 @@ id_cancion,id_artista,id_album,title,duration,rank,contributors_bool
 3363459781,1755,755617411,The Look (Live In Sydney),332,174734,False
 3098312,1755,299784,Salvation,277,309479,False
 3201697531,1755,702650651,Dance Away,204,149590,False
-1523248582,1755,265901582,Small Talk,232,255587,False
+1523248582,1755,265901582,Small Talk,232,224483,False
 102892968,1755,10690396,The Look (2015 Remake),238,255432,False
 3363459901,1755,755617411,Things Will Never Be The Same (Live In Zürich),192,113181,False
 3363459871,1755,755617411,Here Comes The Weekend,250,201910,False
 89388985,1755,9049085,Stars,238,353693,False
-126424013,1755,13315825,Vulnerable (Single Version),268,188538,False
-72546553,1755,7132747,It Must Have Been Love (Live from Santiago 2012),337,407551,False
+126424013,1755,13315825,Vulnerable (Single Version),268,224990,False
+72546553,1755,7132747,It Must Have Been Love (Live from Santiago 2012),337,439451,False
 3136444,1755,302183,No Se Si Es Amor (It Must Have Been Love),282,383644,False
-1523248502,1755,265901582,Knockin' On Every Door,235,251484,False
+1523248502,1755,265901582,Knockin' On Every Door,235,290545,False
 3201697501,1755,702650651,Dressed For Success,249,140989,False
 3363459841,1755,755617411,Cinnamon Street,300,222516,False
 3355885591,1755,753142401,Crash! Boom! Bang!,301,388242,False
