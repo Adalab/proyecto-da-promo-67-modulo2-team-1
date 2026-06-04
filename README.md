@@ -125,14 +125,27 @@ Los resultados pueden aportar información valiosa para plataformas de streaming
 
 ---
 
+## 📂 Estructura de Archivos y Datos
+
+En la raíz del proyecto encontrarás los siguientes archivos clave para la ejecución y el análisis:
+
+| Archivo | Tipo | Descripción |
+| :--- | :--- | :--- |
+| `Extraccion_datos_apis.ipynb` | Jupyter Notebook | Cuaderno principal que contiene todo el código de extracción de APIs, limpieza, conexión y carga a la base de datos MySQL. |
+| `listado_de_albumes.csv` | Dataset (CSV) | Información recopilada sobre los álbumes, fechas de lanzamiento y pistas. |
+| `listado_de_artistas_fm.csv` | Dataset (CSV) | Datos detallados de Last.fm (oyentes, reproducciones, biografía y popularidad). |
+| `listado_de_canciones.csv` | Dataset (CSV) | Métricas y características de las canciones individuales analizadas. |
+| `requirements.txt` | Configuración | Archivo con las librerías necesarias para ejecutar el proyecto. |
+
+---
+
 ## 👥 Equipo
 
 Proyecto desarrollado por:
 
-* [Nombre integrante]
-* [Nombre integrante]
-* [Nombre integrante]
-* [Nombre integrante]
+* Ana Daza Gallardo
+* Alexandra Prieto Prieto
+* María de los Ángeles Toro Cabezas
 
 ---
 
@@ -141,34 +154,32 @@ Proyecto desarrollado por:
 ### Clonar repositorio
 
 ```bash
-git clone <url-repositorio>
+git clone <https://github.com/Adalab/proyecto-da-promo-67-modulo2-team-1.git>
 ```
 
 ### Instalar dependencias
+Asegúrate de tener Python instalado y ejecuta el siguiente comando en la terminal para instalar todas las librerías del archivo de requisitos:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Ejecutar extracción de datos
+### Crear archivo env
+Crear un archivo .env en la raíz con tu clave siguiendo el siguiente formato:
+PASS_SQL= "tu_contraseña_de_mysql"
 
-```bash
-python src/extraccion_datos.py
-```
+### Abrir y ejecutar el cuaderno principal en Jupyter o VS Code
 
-### Cargar información en la base de datos
+Archivo: Extraccion_datos_apis.ipynb
+En caso de realizar un "Run All" a la pregunta del input contestar: N
 
-```bash
-python src/carga_bbdd.py
-```
+### Reutilización del código
 
-### Ejecutar consultas de análisis
+Para reutilizar el código con otro grupo de control es necesario cambiar dos variables:
 
-```bash
-python src/analisis.py
-```
+id_artistas = al que se deben añadir los id de deezer del nuevo grupo de control
+diccionario_genero = crear el diccionario con los nombres de los artistas y sus géneros. 
 
----
 
 ## 🌱 Aprendizajes
 
