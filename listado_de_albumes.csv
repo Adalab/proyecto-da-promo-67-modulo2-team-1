@@ -10,7 +10,6 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 7534614,180,132,Waterloo (Deluxe Edition),19,2014-01-01
 261029912,230,116,Hurricane,1,2021-09-24
 112668,1434,132,LOVG - Grandes Exitos,16,2008-06-18
-430985247,7201102,71,un x100to,1,2023-04-17
 978827301,290,113,I Feel So Free (Peggy Gou Energy Mix),1,2026-05-15
 95100972,5962948,132,If I Can't Have You,1,2019-05-03
 902084652,485,152,Lie To Me,4,2024-05-03
@@ -19,7 +18,6 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 976954,483,132,Till The World Ends The Remixes,8,2011-04-18
 90112062,556,173,The Hobbit: The Desolation of Smaug (Original Motion Picture Soundtrack) (Special Edition),29,2013-12-10
 752580671,119,464,Hero of the Day (Remastered),1,2025-05-09
-870707262,485,85,No Gods No Masters (Edit),1,2026-01-28
 905328702,315929,152,Alone (Special Edition),27,2017-09-29
 950341,3098,132,Ladies & Gentlemen,29,2001-11-26
 85545032,10803980,16,SQUARE UP,4,2019-01-30
@@ -44,6 +42,7 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 360706177,12382106,116,Tranquilísimo,1,2021-07-22
 629506181,75491,132,Die With A Smile,1,2024-08-16
 905339012,485,152,Version 2.0 (20th Anniversary Edition / Remastered 2018),12,2015-10-02
+732731521,315929,152,Pretenders Live - Kick 'Em Where It Hurts! (Live Album),17,2025-06-13
 12988558,12178,106,This Is What You Came For,1,2016-04-29
 1398927,259,132,Invincible,16,2001-10-29
 310478997,160,116,Te Felicito,1,2022-04-21
@@ -52,12 +51,11 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 101490842,4860761,116,OASIS,8,2019-06-28
 565889181,145,132,COWBOY CARTER,27,2024-03-29
 75198632,5962948,132,Under Pressure,1,2018-10-11
-648347821,75491,129,Harlequin,13,2024-09-27
+751876271,4479,132,Bésame,1,2025-05-22
 215894192,7457468,132,Corazón Cromado,7,2021-03-25
 301232,425,132,Heart Of Glass,4,2005-07-05
 374550707,413,132,Hold Me Closer (Acoustic),1,2022-11-18
 905339062,485,152,Version 2.0 (20th Anniversary Deluxe Edition),22,2018-06-22
-303293,425,85,Blonde And Beyond,19,1993-11-16
 250046,145,116,I AM...SASHA FIERCE,11,2008-11-14
 286910,564,132,Music Of The Sun,13,2005-01-01
 245956,180,132,Super Trouper,12,2001-06-25
@@ -69,6 +67,7 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 977115,145,132,Run The World (Girls),1,2011-04-21
 719915231,5620251,132,Antes de Morirme (feat. ROSALÍA),1,2016-07-05
 41232611,10977,85,After Laughter,12,2017-05-12
+438506,483,132,The Singles Collection,58,2009-11-09
 708827371,2446,132,Hacia Lo Salvaje,12,2011-09-27
 78887152,5620251,116,Un Veneno,1,2018-11-22
 102641,108420982,132,Love Rocks! Pre-Cleared Compilation Digital (International Version),13,2007-04-16
@@ -76,10 +75,8 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 474929395,315929,85,Relentless,12,2023-09-15
 708827381,2446,132,Hacia Lo Salvaje (Deluxe Edition),24,2011-09-27
 15659254,384236,132,Shape of You (feat. Zion & Lennox) (Latin Remix),1,2017-03-01
-568336631,98840272,197,Románticas en Español,29,2024-04-05
 594581752,13,116,Houdini,1,2024-05-31
 76955902,119,464,…And Justice for All (Remastered),9,2018-11-02
-725250,412,152,Live At Wembley Stadium,28,2011-01-01
 191559942,483,132,Glory (Deluxe),23,2020-12-11
 766124301,384236,132,Sapphire,1,2025-06-05
 316164367,10583405,197,Un Verano Sin Ti,23,2022-05-06
@@ -93,8 +90,6 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 906066232,425,132,Maria,5,2025-10-17
 64629052,98,85,Hi-Lo (feat. Lindsey Stirling) (Radio Edit),1,2018-06-08
 380094787,12246,132,Anti-Hero (Acoustic Version),1,2022-11-25
-103027012,5080,173,The Lion King (Original Motion Picture Soundtrack),19,2019-07-11
-6508869,75798,132,Cold Shoulder,4,2008-07-12
 915783,412,152,Sheer Heart Attack (2011 Remaster),13,2011-03-14
 915785,412,152,A Night At The Opera (2011 Remaster),12,2005-11-22
 915786,412,152,A Night At The Opera (Deluxe Edition 2011 Remaster),18,2011-03-14
@@ -104,19 +99,17 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 15319389,384236,132,Shape of You (Acoustic),1,2017-02-10
 119135,196,152,Bury The Hatchet (The Complete Sessions 1998-1999),19,2002-06-13
 86371,290,132,The Immaculate Collection,17,1990-11-09
-574736741,141992442,132,Pop-Up Dynamo!,50,2022-10-19
-42946921,12246,132,Bad Blood,1,2015-05-17
 168591722,1538640,132,Get Weird (Expanded Edition),18,2015-11-06
 964049261,290,113,I Feel So Free,1,2026-04-18
-10103154,5080,173,Home (Original Motion Picture Soundtrack),8,2015-03-24
-191560062,483,132,Glory (Deluxe),23,2020-12-11
 299390,1755,132,The Pop Hits,15,2003-03-24
 957059461,4390053,197,Choka Choka,1,2026-04-10
 467339,5080,173,Twilight Original Motion Picture Soundtrack (International Special Edition),17,2008-11-03
 74434962,75491,173,A Star Is Born Soundtrack,34,2018-10-05
 80278,315929,132,The Singles,16,1987-10-26
 15454616,380955,197,FIVE (Deluxe Edition),18,2017-02-24
+276593052,290,132,Frozen,1,2021-12-03
 669034911,5962948,132,Shawn,12,2024-11-15
+73435562,13,116,Killshot,1,2018-09-19
 206045612,5620251,116,El Madrileño,14,2021-02-26
 572346801,165930,116,WE STILL DON'T TRUST YOU,25,2024-04-12
 181270962,1538640,132,Sweet Melody,1,2020-10-23
@@ -129,6 +122,7 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 1401302,160,197,Laundry Service,13,2001-11-13
 125398,564,165,Umbrella,1,2007-05-22
 15438310,4104927,85,Something Just Like This,1,2017-02-22
+6509033,75798,132,Rolling in the Deep (Jamie xx Shuffle),1,2011-04-11
 1645039,485,85,Blood For Poppies,1,2012-03-26
 10017266,564,132,Bitch Better Have My Money,1,2015-03-26
 54841842,196,152,Bury The Hatchet,13,1999-04-27
@@ -139,6 +133,7 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 154364412,1020109,132,TRANSLATION,15,2020-11-02
 109054,196,132,Gold,31,2008-03-11
 244223,145,132,I AM...SASHA FIERCE,16,2008-11-14
+770314751,119,464,Load (Remastered),14,1996-06-04
 903739902,485,152,Bleed Like Me (Remastered 2024),28,2024-04-05
 1956351,180,132,The Visitors (Deluxe Edition),16,2012-04-23
 722147851,75491,132,MAYHEM,14,2025-03-07
@@ -147,7 +142,9 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 88596,315929,132,Pretenders II,12,1981-06-01
 645478941,160,132,Soltera,1,2024-09-25
 260157992,892,85,My Universe,3,2021-09-27
+1149484,75798,132,Set Fire to the Rain (Remixes),4,2011-07-04
 841775662,384236,132,Camera (CYRIL Remix),1,2025-10-31
+900563502,425,152,Long Time,1,2026-01-28
 356913,10977,85,Riot!,14,2007-06-11
 234168882,10803980,16,BLACKPINK 2021 'THE SHOW' LIVE,15,2021-06-01
 671744571,75491,132,Die With A Smile (Acoustic),1,2024-10-30
@@ -157,11 +154,9 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 456489535,4050205,173,The Idol Episode 4 (Music from the HBO Original Series),3,2023-06-23
 1241662,315929,132,The Best of / Break Up the Concrete,36,2008-09-23
 7776833,259,132,XSCAPE,17,2014-05-09
-14535238,892,85,Everglow,2,2016-11-11
 89510472,210977,106,Hyperion,10,2019-03-08
 746059,75798,132,21,11,2011-02-22
 92747,290,132,Hard Candy (Deluxe Digital),15,2008-04-28
-469682765,4495513,116,UTOPIA,19,2023-07-28
 133878352,10583405,122,YHLQMDLG,20,2020-02-29
 6443604,10977,85,Paramore,17,2013-04-05
 301663,892,152,Parachutes,10,2000-07-10
@@ -177,16 +172,16 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 14344820,75491,132,Joanne (Deluxe),14,2016-10-21
 182383222,10583405,197,DÁKITI,1,2020-10-30
 183603832,1538640,132,Confetti,13,2020-11-06
+246841972,384236,113,Bad Habits (MEDUZA Remix),1,2021-07-30
 8548989,4088,129,Cheek To Cheek (Deluxe),15,2014-09-23
 303743,892,152,Viva La Vida (Prospekt's March Edition),18,2008-05-26
+6910591,892,173,Atlas (From “The Hunger Games: Catching Fire” Soundtrack),1,2013-09-09
 753142401,1755,132,Crash! Boom! Bang! 30th Anniversary Edition,44,2024-12-06
 86712972,75491,132,ARTPOP,14,2019-02-08
 269122192,180,132,Voyage,10,2021-11-05
-74361492,1434,132,La Chica del Espejo,1,2018-10-19
 661377691,75491,132,Disease,1,2024-10-25
 9007781,12246,132,1989 (Deluxe),19,2014-10-27
 13083302,892,113,Hymn for the Weekend (Seeb Remix),1,2016-03-25
-114604712,58568762,116,Tutu Remix,1,2019-10-14
 705649321,4050205,165,Hurry Up Tomorrow,22,2025-01-31
 80554,290,132,Like a Prayer,11,1989-03-17
 50913962,384236,132,Perfect (Acoustic),1,2017-11-10
@@ -201,13 +196,11 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 668521151,2446,85,Dolce Vita,15,2024-11-29
 75621062,412,173,Bohemian Rhapsody (The Original Soundtrack),22,2018-10-19
 340077257,145,132,RENAISSANCE,16,2022-07-29
-82541262,10583405,122,X 100PRE,15,2018-12-23
 99027,1434,132,El Viaje de Copperpot,13,2000-09-07
 892838612,196,85,In the End,11,2019-04-26
 879733462,290,132,Rebel Heart,14,2015-03-10
 53314262,8376040,116,Guerrera,1,2017-12-15
 370666207,564,132,Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By),2,2022-10-28
-192365282,1538640,132,Confetti (Expanded Edition),26,2020-12-11
 418720487,384236,132,Eyes Closed,1,2023-03-24
 72429,145,165,B'Day Deluxe Edition,20,2007-04-03
 162683632,12246,85,folklore,16,2020-07-24
@@ -220,13 +213,14 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 583457542,127322,152,¿Qué vas a saber?,1,2024-05-31
 299784,1755,132,The Ballad Hits,15,2002-11-04
 103115532,384236,132,No.6 Collaborations Project,15,2019-07-12
-217869,259,132,Ben,10,1972-01-01
 191154962,5962948,132,Wonder (Holiday Deluxe),16,2020-12-05
+176935702,5629748,116,FANTASYA,17,2020-10-23
 94528282,145,132,Lemonade,13,2016-04-23
 749460251,3922661,197,LO MISMO DE SIEMPRE,17,2025-05-18
 48479002,5620251,116,Ídolo,12,2017-10-06
 15385387,98,152,Lost Whispers,12,2017-02-17
 299821,892,152,A Rush of Blood to the Head,11,2002-08-08
+6875949,4050205,165,Kiss Land (Deluxe),12,2013-01-01
 663089971,5962948,132,Heart of Gold,1,2024-11-01
 125748,13,116,The Marshall Mathers LP,18,2000-05-16
 119606,13,116,Curtain Call: The Hits,17,2005-01-01
@@ -237,12 +231,12 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 641319771,4050205,165,Dancing In The Flames,1,2024-09-13
 263017,10977,173,Decode,2,2009-01-16
 644664171,2446,85,Libre,1,2024-09-27
+114508662,10803980,16,Kill This Love (Japan Version),5,2019-10-16
 971703161,4331004,132,Midnight Sun: Girls Trip,20,2026-04-30
 262126462,5620251,116,Ateo,1,2021-10-07
-842595202,4479,138,¿Y ahora qué +?,13,2025-11-21
-103715722,384236,132,Beautiful People (Acoustic),1,2019-07-11
 265114512,315929,152,Pretenders (Deluxe Edition),55,1980-01-11
 770317201,119,464,Load (Remastered Deluxe Box Set),233,2025-06-13
+161192852,75491,132,Rain On Me (Purple Disco Machine Remix),2,2020-07-17
 902118292,196,85,Something Else,13,2017-04-28
 58041242,9759672,132,CNCO,14,2018-04-06
 971750301,75491,132,The Devil Wears Prada 2 (Music From The Motion Picture),13,2026-05-01
@@ -271,15 +265,16 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 96480212,384236,132,I Don't Care,1,2019-05-10
 285758422,4050205,165,Dawn FM,16,2022-01-07
 786324441,10803980,16,JUMP,1,2025-07-11
+466086875,10226,132,MIND YOUR BUSINESS,1,2025-01-09
 52612062,12246,132,reputation,15,2017-11-17
 217273312,98,152,The Bitter Truth,12,2021-03-26
 230646752,1434,138,Esencial La Oreja de Van Gogh,30,2021-06-04
 348005347,10803980,16,Pink Venom,1,2022-08-19
 91109,290,132,Something to Remember,14,1995-01-01
-264774632,4347,116,Tocarte,1,2021-10-28
 119038952,9999412,85,Picaflor,1,2019-11-29
+264774632,4347,116,Tocarte,1,2021-10-28
 221103082,425,132,Live,17,2021-04-08
-428391407,119,152,72 Seasons,12,2023-04-14
+755616751,483,113,Oops!... I Did It Again (25th Anniversary Edition),22,2025-05-16
 13632500,425,132,Heart Of Glass (Crabtree Remix),1,2016-07-22
 228023292,3265001,113,Heartbreak Anthem,1,2021-05-20
 10187772,483,113,Pretty Girls,1,2015-05-04
@@ -291,6 +286,7 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 694277141,213208547,132,Heart of Glass,1,2025-01-29
 221543452,12246,-1,Fearless (Taylor's Version),26,2021-04-09
 926950431,10803980,16,DEADLINE,5,2026-02-27
+1236000,412,152,A Kind Of Magic (Deluxe Edition 2011 Remaster),16,2011-09-05
 1236003,412,152,Made In Heaven (Deluxe Edition 2011 Remaster),19,2011-01-01
 304164,425,152,Autoamerican (Remastered 2001),15,2001-08-30
 1440807,259,132,Off the Wall,10,1983-07-04
@@ -304,7 +300,6 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 11580496,892,85,Adventure of a Lifetime,1,2015-11-06
 169258072,8706544,113,Club Future Nostalgia (DJ Mix),17,2020-08-28
 835454042,12170972,113,I Wanna Go - John Summit Remix,1,2025-10-17
-119899,180,132,Abba,13,2004-04-19
 8244316,483,132,Circus (Deluxe Version),15,2008-12-02
 1123422,10977,85,Monster,1,2011-06-06
 7539807,160,85,Shakira. (Expanded Edition) (Spanish Version),15,2014-03-24
@@ -313,7 +308,6 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 302183,1755,132,Baladas En Español,12,1996-10-21
 72819,259,132,Thriller 25 Super Deluxe Edition,30,2008-02-08
 65107062,160,132,Clandestino,1,2018-06-08
-215604342,4050205,165,House Of Balloons (Original),9,2021-03-21
 251454582,384236,132,Visiting Hours,1,2021-08-19
 1121401,412,152,Jazz (2011 Remaster),13,2011-06-27
 64341122,5962948,132,Shawn Mendes,14,2018-05-25
@@ -329,17 +323,14 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 1242261,425,132,Essential,21,2011-09-09
 906140822,485,152,Garbage (20th Anniversary Super Deluxe Edition),62,2015-10-02
 876078232,1434,132,Todos Estamos Bailando La Misma Canción,1,2025-12-31
-71668892,259,132,Michael Jackson x Mark Ronson: Diamonds are Invincible,1,2018-08-29
 648801441,160,152,She Wolf (Expanded Edition),18,2009-10-09
 91299,290,132,Ray of Light,13,1998-06-02
 210212012,315929,132,Break Up the Concrete,11,2012-01-25
 74926,483,132,Greatest Hits: My Prerogative,27,2004-11-08
 815082671,75491,132,The Dead Dance,1,2025-09-03
-103600,75332,132,The Ultimate Collection: Jackson 5,21,1996-01-23
 300209,425,132,Atomic/Atomix,29,2003-03-03
 715226291,2446,85,Nocturnal,14,2015-10-30
 147221692,10803980,16,BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME- (Live),12,2020-05-14
-658384081,180,132,The Singles (The First Fifty Years),38,2024-10-25
 490724565,98,152,Bring Me To Life (Demo / Remastered),2,2023-09-28
 517337,1446,132,All The Best (UK Version),17,2007-05-22
 464090,13,116,Relapse: Refill,29,2009-12-21
@@ -347,6 +338,7 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 287965,564,132,Pon de Replay,2,2005-08-22
 302305,2446,132,Pájaros En La Cabeza,14,2005-03-14
 363504867,6397900,116,Una y Mil Veces (Rumba),1,2022-10-06
+293121252,384236,132,The Joker And The Queen (feat. Taylor Swift),1,2022-02-11
 50607332,5962948,132,MTV Unplugged (MTV Unplugged),11,2017-11-03
 94713062,5620251,116,Ontas?,1,2019-04-26
 109801,1434,132,Lo Que Te Conte Mientras Te Hacias La Dormida,15,2003-03-30
@@ -364,13 +356,13 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 902085892,485,152,Beautiful Garbage,13,2015-10-02
 715169031,98,85,"Afterlife (from the Netflix Series ""Devil May Cry"")",1,2025-03-28
 52538632,384236,132,Perfect Duet (with Beyoncé),1,2017-11-30
-109833,1434,132,La Oreja de Van Gogh en Directo,18,2004-04-19
 270644492,7543848,116,One Right Now,1,2021-11-05
 668910861,11289472,116,Cosa Nuestra,18,2024-11-15
 138118412,1755,132,Pearls Of Passion (Extended Version),20,1997-10-27
 403447057,10977,85,This Is Why,10,2023-02-10
 283925,12246,-1,Fearless (International Version),16,2009-03-08
 137272602,4050205,165,After Hours,14,2020-03-20
+561958172,160,132,Las Mujeres Ya No Lloran,17,2024-03-22
 8985885,5080,165,Filtr presents R&B Party,50,2014-11-14
 625532191,5962948,132,Shawn,2,2024-08-09
 300328,892,152,X&Y,13,2005-06-07
@@ -379,7 +371,6 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 834075952,67972932,132,HOME,1,2025-10-10
 625532211,5962948,132,Shawn,2,2024-08-09
 105781,75798,132,19,12,2008-06-16
-198167862,12246,85,evermore (deluxe version),17,2021-01-07
 902085952,485,152,Bleed Like Me,11,2005-01-01
 878771522,160,173,"Zoo (From ""Zootopia 2""/Japanese Single Version)",3,2025-12-18
 423235,75491,132,Bad Romance,1,2009-10-26
@@ -391,7 +382,6 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 118080852,98,152,The Chain,1,2019-11-22
 11898198,892,85,A Head Full of Dreams,11,2015-12-04
 127270232,13,116,Music To Be Murdered By,20,2020-01-17
-203644252,4050205,165,The Highlights,18,2021-02-05
 736095581,384236,132,Azizam,1,2025-04-04
 6067558,2446,132,Amaral 1998 - 2008 [Remastered] (Remastered Version),27,2012-11-23
 188972392,10583405,197,EL ÚLTIMO TOUR DEL MUNDO,16,2020-11-27
@@ -400,7 +390,6 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 13833594,7343,132,La Bicicleta (feat. Maluma) (Remix),1,2016-08-19
 918730111,290,132,Hung Up (Remixes),10,2005-10-17
 212357,119,464,Death Magnetic,10,2008-09-12
-91531,290,132,Madonna,10,2005-07-05
 77201,145,132,Dangerously In Love,15,2003-06-24
 161173,13,116,Eminem Presents The Re-Up,22,2006-12-14
 151092632,75491,132,Chromatica,16,2020-05-29
@@ -428,9 +417,8 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 459457995,5620251,116,Oliveira Dos Cen Anos,1,2023-07-07
 657587661,2446,85,No lo Entiendo,1,2024-10-25
 254901712,3265001,113,Heartbreak Anthem (Remixes),10,2021-09-03
-816260561,384236,132,Play (Extended Edition),18,2025-09-12
-14581202,119,152,Hardwired…To Self-Destruct (Deluxe),26,2016-11-18
 977100241,2446,132,No Quiero Más Canciones Tristes,1,2026-05-20
+14581202,119,152,Hardwired…To Self-Destruct (Deluxe),26,2016-11-18
 859209172,160,132,Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE,5,2025-10-22
 903779802,485,152,Anthology,35,2026-01-28
 73799132,5962948,132,Lost In Japan (Remix),1,2018-09-27
@@ -461,8 +449,10 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 603416092,892,85,feelslikeimfallinginlove (Single Version),1,2024-06-21
 6866470,483,132,The Essential Britney Spears,32,2014-07-29
 126502,180,132,Arrival,12,2001-01-01
+63651372,384236,132,Happier (Acoustic),1,2018-05-25
 93746,10977,152,All We Know Is Falling,10,2005-07-26
 321089,2446,132,Moriría Por Vos,1,2007-05-25
+321090,2446,132,Te Necesito,1,2007-05-25
 365424197,160,116,Monotonía,1,2022-10-19
 610332232,13,116,Tobey,1,2024-07-02
 14460488,1434,132,El Planeta Imaginario,12,2016-11-04
@@ -473,6 +463,7 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 126543,180,132,The Album,10,2008-09-11
 194866772,384236,132,Afterglow,1,2020-12-21
 7573078,180,132,Abba Gold Anniversary Edition,59,2014-04-07
+442984025,10583405,197,WHERE SHE GOES,1,2023-05-18
 75353,1434,132,París,12,2004-05-10
 321117,2446,132,Una Pequeña Parte Del Mundo,13,2003-03-03
 247879262,5620251,116,Yate,1,2021-08-13
@@ -496,21 +487,19 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 75107992,1538640,113,Woman Like Me (feat. Nicki Minaj),1,2018-10-12
 1431193,5080,132,Un Año de Éxitos 2007,16,2007-10-05
 309395097,407188,113,Paradise Again,17,2022-04-15
-126594712,5620251,116,Viene y Va,1,2020-01-23
 161439,564,132,A Girl Like Me,14,2005-01-01
 451561125,4050205,173,Popular (Music from the HBO Original Series),1,2023-06-10
 958099111,75491,132,RUNWAY,1,2026-04-10
 753320,259,132,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",30,2007-11-13
-10563241,5962948,173,"Believe (From ""Descendants"")",1,2015-06-16
 9760426,564,132,FourFiveSeconds,1,2015-01-24
 40142511,10977,85,Hard Times,1,2017-04-19
 8015538,98,152,The Open Door,13,2014-06-24
+295012022,384236,132,Bad Habits (feat. Bring Me The Horizon),1,2022-02-08
 21786301,5962948,132,Handwritten (Deluxe),16,2016-02-12
 168586942,1538640,132,Bounce Back - EP,3,2019-06-14
 912174791,290,132,Celebration (Deluxe Version),37,2009-09-29
 433878,564,132,Rated R,13,2009-11-23
 493031131,11,152,Sweet Sounds Of Heaven,2,2023-09-28
-104034012,5962948,132,If I Can't Have You (Gryffin Remix),1,2019-07-19
 42014431,160,132,El Dorado,13,2017-05-27
 53227232,13,116,Revival,19,2017-12-15
 297617122,1755,132,Look Sharp! 30th Anniversary Edition,52,2022-01-12
@@ -522,9 +511,10 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 889071342,196,85,Linger (Acoustic Version),1,2026-01-28
 493225711,4649104,116,DATA,20,2023-10-14
 108447472,12246,132,Lover,18,2019-08-23
+917233,412,152,A Day At The Races (Deluxe Edition 2011 Remaster),15,2011-05-17
 13315825,1755,132,Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits,18,1995-10-23
-13315821,1755,132,Rarities,12,2016-06-10
 161523,13,116,Eminem Presents The Re-Up,23,2006-12-04
+13315821,1755,132,Rarities,12,2016-06-10
 8015598,98,152,Fallen,12,2014-06-24
 137217782,4050205,165,After Hours,14,2020-03-20
 5814011,259,132,Bad 25th Anniversary,24,2012-09-17
@@ -537,9 +527,7 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 5814031,259,132,Bad (Remastered),11,2012-09-17
 463865615,10977,85,My Hero,2,2006-06-13
 241429,145,132,If I Were A Boy,1,2008-10-17
-300822,1755,132,A Collection of Roxette Hits! Their 20 Greatest Songs!,20,2006-10-18
 14880539,75798,132,25,11,2015-11-20
-630038301,5080,132,Podré Tornar Enrere. El Tribut a Sopa de Cabra,16,2006-11-15
 801396511,196,152,No Need To Argue (2025 Remastered),13,2025-08-15
 295730982,5620251,116,El Madrileño (La Sobremesa),23,2022-02-18
 87855,315929,132,Get Close (Expanded & Remastered),17,1986-11-04
@@ -564,11 +552,12 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 8015746,98,152,Anywhere But Home (Live),14,2009-09-11
 12279688,564,132,ANTI (Deluxe),16,2016-01-29
 1206152,259,113,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,13,1997-05-19
+673400721,892,113,ALL MY LOVE (PNAU x Coldplay),1,2024-11-29
+15478674,384236,132,÷ (Deluxe),16,2017-03-03
 395194257,12487862,197,"Shakira: Bzrp Music Sessions, Vol. 53/66",1,2023-01-11
 71569,483,132,...Baby One More Time (Digital Deluxe Version),16,1999-01-12
 71570,483,132,Britney (Digital Deluxe Version),15,2001-10-31
 75775892,8706544,132,Dua Lipa (Complete Edition),25,2018-10-25
-15478674,384236,132,÷ (Deluxe),16,2017-03-03
 261087122,384236,132,Shivers (Acoustic Version),1,2021-10-01
 650278821,892,85,Moon Music,10,2024-10-04
 829966251,12246,132,The Life of a Showgirl,12,2025-10-03
@@ -577,7 +566,6 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 1238967,564,132,Loud,11,2010-11-16
 1421245,483,132,In The Zone,13,2003-11-13
 357003197,10803980,132,BORN PINK,8,2022-09-16
-217023,145,132,B'Day,14,2006-08-29
 1247174,1434,132,Cometas Por El Cielo,11,2011-09-13
 8679369,892,85,Ghost Stories,9,2014-05-19
 303050,425,152,Greatest Hits,19,2002-09-19
@@ -586,12 +574,12 @@ id_album,id_artista,id_genre,titulo,n_canciones,fecha_lanzamiento
 430036,564,132,Rated R,13,2009-11-23
 851845082,12246,132,The Fate of Ophelia (Loud Luxury Remix),3,2025-11-07
 51001312,119,464,Master Of Puppets (Remastered),8,1986-03-03
-367300577,413,113,Hold Me Closer (Purple Disco Machine Remix),2,2022-10-21
 176381922,1755,132,Let Your Heart Dance With Me,1,2020-10-02
 100323,180,132,ABBA Gold,19,2005-10-07
 253927,75491,132,The Fame,15,2008-11-24
 168589292,1538640,132,DNA (Expanded Edition),22,2012-11-19
 188588012,5904266,113,No Time For Tears,1,2020-11-27
+1232878,412,152,Innuendo (2011 Remaster),12,2011-09-05
 1232879,412,152,The Miracle (2011 Remaster),10,2011-09-05
 1232880,412,152,The Works (2011 Remaster),9,2011-09-05
 65558512,5620251,116,Bien Duro,1,2018-06-22
