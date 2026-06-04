@@ -27,31 +27,26 @@ El análisis se desarrolló alrededor de las siguientes preguntas:
 ### 1. Audiencia y popularidad
 
 * ¿Cuál es la media de oyentes de las artistas femeninas frente a los artistas masculinos?
-* ¿Cuál es la media de reproducciones según el género del artista?
+* ¿Quién obtiene más "rendimiento" por cada tema lanzado?
 
-### 2. Eficiencia por canción
+### 2. Posicionamiento en rankings
 
-* Si dividimos el número total de reproducciones entre el número de canciones disponibles, ¿qué grupo obtiene un mayor rendimiento por tema publicado?
+* ¿Cuál es la posición media en ranking_lista para las mujeres frente a los hombres?
+* ¿Qué porcentaje de artistas en el "Top 10" (según ranking_lista) son mujeres?
+* ¿Qué porcentaje de artistas en el "Top 10" (según ranking_lista) son grupos mixtos con mujeres al frente?
 
-### 3. Posicionamiento en rankings
+### 3. Colaboraciones musicales
 
-* ¿Cuál es la posición media en los rankings musicales para mujeres y hombres?
-* ¿Qué porcentaje de artistas presentes en el Top 10 pertenece a cada grupo?
+* ¿Quién colabora más? ¿Las mujeres suelen aparecer más en canciones con colaboraciones que en solitario?
 
-### 4. Colaboraciones musicales
+### 4. Producción musical
 
-* ¿Quién realiza más colaboraciones?
-* ¿Las artistas femeninas aparecen con mayor frecuencia en canciones colaborativas que en proyectos en solitario?
+* ¿Quién saca álbumes más largos (con más canciones)?
+* ¿Cuál es el tiempo medio que pasa una mujer entre álbum y álbum frente a los hombres?
 
-### 5. Producción musical
-
-* ¿Qué grupo publica álbumes con mayor número de canciones?
-* ¿Existe alguna diferencia en la frecuencia de lanzamiento de nuevos trabajos discográficos?
-
-### 6. Representación por género musical
+### 5. Representación por género musical
 
 * ¿Existen estilos musicales con una presencia mínima o inexistente de artistas femeninas?
-* ¿Qué géneros muestran una representación más equilibrada?
 
 ---
 
