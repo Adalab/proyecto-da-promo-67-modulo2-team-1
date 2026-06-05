@@ -136,7 +136,7 @@ En la raíz del proyecto encontrarás los siguientes archivos clave para la ejec
 | `listado_de_artistas_fm.csv` | Dataset (CSV) | Datos detallados de Last.fm (oyentes, reproducciones, biografía y popularidad). |
 | `listado_de_canciones.csv` | Dataset (CSV) | Métricas y características de las canciones individuales analizadas. |
 | `requirements.txt` | Configuración | Archivo con las librerías necesarias para ejecutar el proyecto. |
-
+| `.gitignore` | Configuración | Archivo que excluye del repositorio los ficheros sensibles (.env) y los datasets (CSVs). |
 ---
 
 ## 👥 Equipo
@@ -178,7 +178,13 @@ En caso de realizar un "Run All" a la pregunta del input contestar: N
 Para reutilizar el código con otro grupo de control es necesario cambiar dos variables:
 
 id_artistas = al que se deben añadir los id de deezer del nuevo grupo de control
-diccionario_genero = crear el diccionario con los nombres de los artistas y sus géneros. 
+diccionario_genero = crear el diccionario con los nombres de los artistas y sus géneros.
+
+En caso de querer personalizar la base de datos, se puede realizar cambiando la variable "nombre_bd" y de las tablas si fuera necesario.
+
+### Posibles mejoras
+
+Para mejorar la reutilización del código y ampliar el estudio a grupos de control más grandes, es interesante la posibilidad de hacer web scraping para recuperar los IDs de los cantantes, indicándole al sistema tan solo el diccionario con los nombres a buscar y el género (masculino, femenino o mixto) que le corresponde a cada uno y que siempre deben ser equitativos.
 
 
 ## 🌱 Aprendizajes
